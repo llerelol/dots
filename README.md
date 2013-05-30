@@ -1,4 +1,1 @@
-dots
-====
-
-dotfiles
+personal dotfiles
