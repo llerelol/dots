@@ -1,1 +1,1 @@
-personal dotfiles
+dotfiles & scripts
